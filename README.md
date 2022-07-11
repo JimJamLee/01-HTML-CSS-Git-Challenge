@@ -65,3 +65,15 @@ Submit the following for review:
 * The URL of the deployed application.
 
 * The URL of the GitHub repository, with a unique name and a README that describes the project.
+
+## Application Screenshot
+
+The following image shows the web application's appearance and functionality:
+
+(./Assets/01-html-css-git-challenge-screenshot.png)
+
+## Application Link
+
+The following is a link to the deployed application in GitHub pages.
+
+[James Li Challenge 01: HTML-CSS-Git](https://jimjamlee.github.io/01-HTML-CSS-Git-Challenge/#social-media-marketing)
