@@ -42,16 +42,19 @@ body {
     list-style-type: none;
 }
 
+/* Positioning how the navigation elements will be displayed on the webpage */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Formatting the text appearance of the navigation elements to be font color white with no text decorations */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Formatting the font size of the paragraph elements throughout the page. */
 p {
     font-size: 16px;
 }
@@ -66,6 +69,7 @@ p {
     background-position: center;
 }
 
+/* Establishing the positioning of the images on the right and left within the created created section boxes in the main body of the webpage. */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -76,71 +80,14 @@ p {
     margin-left: 25px;
 }
 
+/* Positioning of all elements contained within the main body of the webpage */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
-
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
+/* Positioning and formatting including the font, text color, and background color of the different elements within each section of the main body of the webpage */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -168,6 +115,7 @@ p {
     color: #ffffff;
 }
 
+/* Establishing the size of the images contained in each section of the main body of webpage. */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -180,6 +128,7 @@ p {
     max-height: 200px;
 }
 
+/* Establishing the spacing and font size of the heading elements for the different sections of the mainbody of the webpage. */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -195,6 +144,70 @@ p {
     font-size: 36px;
 }
 
+/* Establishing the overall positioning and formatting of all elements contained within the aside portion of the webpage. */
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+/* Establishing the spacing and text font color of the different sections within the aside portion of the webpage. */
+.benefit-lead {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-brand {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* Positioning of the different section header elements within the aside portion of the webpage. */
+.benefit-lead h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-brand h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* Position and sizing of the image elements for each section of the aside portion of the webpage.*/
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.benefit-brand img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.benefit-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* Formatting the elements contained withing the footer of the web page including the font appearance. */
 .footer {
     padding: 30px;
     clear: both;
