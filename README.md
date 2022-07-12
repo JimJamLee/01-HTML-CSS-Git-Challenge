@@ -70,7 +70,7 @@ Submit the following for review:
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage screenshot](./Assets/01-html-css-git-challenge-screenshot.png)
+![The Horiseon webpage screenshot](./assets/01-html-css-git-challenge-screenshot.png)
 
 ## Application Link
 
